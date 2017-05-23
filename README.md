@@ -5,15 +5,25 @@ A casual attempt to develop apps for mobile phones using HTML. Inspired by the d
 
 
 ![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/banner.png)
-![Screen Shot2](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/splash.png)
-![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111809.png)
-![Screen Shot2](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screen-20150304164535.png)
-![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111620.png)
-![Screen Shot2](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111644.png)
-![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111845.png)
-![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111851.png)
-![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111818.png)
-![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111800.png)
+
+![Screen Shot2](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/splash.png =480x854)
+
+![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111809.png =480x854)
+
+![Screen Shot2](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screen-20150304164535.png =480x854)
+
+![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111620.png =480x854)
+
+![Screen Shot2](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111644.png =480x854)
+
+![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111845.png =480x854)
+
+![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111851.png =480x854)
+
+![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111818.png =480x854)
+
+![Screen Shot1](https://github.com/ProgramCpp/Bug-Buster/blob/master/ScreenShots/Screenshot_20170523-111800.png =480x854)
+
 
 
 
